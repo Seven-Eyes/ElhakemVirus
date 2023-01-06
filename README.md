@@ -28,6 +28,8 @@ $ git clone https://github.com/ELHAKEM/ElhakemVirus.git
 
 $ cd ElhakemVirus
 
+$ unzip •.zip
+
 $ bash ElhakemVirus.sh
 
 After Installation the Virus Applications or text file
